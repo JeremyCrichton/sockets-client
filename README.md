@@ -1,3 +1,3 @@
-# Sockets
+# Sockets Client
 
-A real-time messaging client.
+A real-time messaging app client.
